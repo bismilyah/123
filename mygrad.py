@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib as mlt
 import matplotlib.pyplot as plt
 
 # Функция потерь
